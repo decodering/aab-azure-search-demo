@@ -150,4 +150,4 @@ data/**/*.md5
 
 # local files
 .vscode/
-.github/
+#.github/
